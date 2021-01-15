@@ -29,7 +29,7 @@ I am Fatih Demirağ software developer. I love the computer and programming. It 
 
 
 <p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/fatihdemirag">
+  <a href="https://gitstats.me/fatihdemirag" target="_blank">
     <img width="auto" height="auto" align="center" alt="Fatih Demirağ's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=fatihdemirag&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
 
