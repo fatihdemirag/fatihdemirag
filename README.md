@@ -25,7 +25,6 @@ I am Fatih Demirağ software developer. I love the computer and programming. It 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=FCC624)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=FCC624)
-![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=FCC624)
 
 
 <p> <!-- GitHub README Stats -->
